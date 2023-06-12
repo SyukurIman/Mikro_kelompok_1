@@ -6,20 +6,22 @@
 3.
 4. 
 
-## Pembahasan
+# Pengenalan
+Tujuan dari proyek ini adalah untuk mencoba metode yang berbeda untuk kontrol suhu yaitu menggunakan Algoritma Dessicion Tree Regeresor untuk menentukan kontrol PID pada kit ITCLab .
 
-#### A. Algoritma Dessicion Tree Regeresor ####
+## Asitektur 
+Arsitektur sistem kontrol menggunakan DessicionTreeRegeresor untuk ITCLab Kit ditunjukkan pada gambar di bawah ini.
 
- ![]()
+  ![](Screenshoot/gambar4.png)
 
-#### B. Hasil PID Control iTC Lab #####
-1. Awal Mulai
-    ![](Screenshoot/gambar1.png)
 
-2. Waktu Mencapai Set Point 
+# Hasil PID Control iTC Lab #####
+## Bagian Awal 
+  ![](Screenshoot/gambar1.png)
+## Bagian Waktu Mencapai Set Point 
    ![](Screenshoot/gambar2.png)
 
-3. Hasil Akhir 
-    ![]()   
+## Bagian Akhir 
+  ![](Screenshoot/gambar3.png)   
 
 
