@@ -2,9 +2,9 @@
 ---
 ### Anggota Kelompok : ### 
 1. Syukur Iman Attaqwa - 20081010026
-2. 
-3.
-4. 
+2. Ahsan Nashihul Karim - 20081010106
+3. Achmad arbi hanafi - 20081010104
+4. M. Fauzan
 
 # Pengenalan
 Tujuan dari proyek ini adalah untuk mencoba metode yang berbeda untuk kontrol suhu yaitu menggunakan Algoritma Dessicion Tree Regeresor untuk menentukan kontrol PID pada kit ITCLab .
